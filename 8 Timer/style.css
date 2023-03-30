@@ -1,0 +1,16 @@
+* {
+    font-family:sans-serif;
+  }
+  body {
+    background: #282828;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+  }
+  
+  h1 {
+    color: white;
+    font-size: 150px;
+    font-weight: 300;
+  }
