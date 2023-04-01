@@ -4,4 +4,4 @@ Moving the hour, minute and second hand using degrees.
 
 ## SCREENSHOT
 
-![Image](Clock Image.PNG)
+![Image](Clock_Image.PNG)

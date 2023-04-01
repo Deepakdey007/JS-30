@@ -5,4 +5,4 @@ Some click animation on div using flex box
 
 # BACKGROUND SCREENSHOT
 
-![Image](Flex Image.PNG)
+![Image](Flex_Image.PNG)
